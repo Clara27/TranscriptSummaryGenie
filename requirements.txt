@@ -6,7 +6,7 @@ gTTS==2.5.1
 pydub==0.25.1
 protobuf==4.25.2
 typing-extensions==4.9.0
-imageio[ffmpeg]
+ffmpeg-python
 
 # System requirement (FFmpeg) must be installed separately:
 # Windows:
